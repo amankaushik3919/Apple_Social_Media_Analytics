@@ -94,6 +94,6 @@ Since this is a lightweight Excel project, data is gathered via:
 > Great for analysts, marketers, or students learning social listening with accessible tools.
 
 
-> **Maintainer**: [Your Name/Org]  
+> **Maintainer**: Aman Kauhik
 > **Last Updated**: April 2026  
-> **Contact**: [your-email@domain.com] for questions or collaboration
+> **Contact**: amankaushik3919@gmail.com for questions or collaboration
